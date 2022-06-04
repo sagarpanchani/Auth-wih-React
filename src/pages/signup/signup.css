@@ -1,0 +1,42 @@
+._signup{
+   display: flex;
+   flex-direction: column;
+   width: 400px;
+   
+}
+._maain_div{
+   margin: auto;
+   margin-top: 50px;
+    background-color: blue;
+    width: 500px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+input{
+    padding: 8px;
+    border-radius: 40px;
+    border: none;
+    outline: none;
+    margin-top: 15px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+button{
+    border: none;
+    border-radius: 40px;
+    outline: none;
+    padding: 8px;
+    margin: auto;
+    
+}
+  
+ 
+  ._center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
